@@ -1,3 +1,15 @@
+---
+title: NMPA PCCP Sim
+emoji: 🤝
+colorFrom: blue
+colorTo: indigo
+sdk: streamlit
+sdk_version: 1.46.0
+app_file: streamlit_app.py
+pinned: false
+license: mit
+---
+
 # Multi-Agent Regulator–Manufacturer Simulator
 
 Streamlit demo accompanying:
