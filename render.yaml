@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: nmpa-pccp-sim
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /_stcore/health
+    autoDeploy: true
